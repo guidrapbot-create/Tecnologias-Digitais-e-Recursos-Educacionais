@@ -30,13 +30,8 @@
   <p>🎨 <strong>Remixar (Remix)</strong> — direito de <strong>combinar</strong> o conteúdo original ou revisado com outros materiais abertos para criar um novo recurso;</p>
   <p>📤 <strong>Redistribuir (Redistribute)</strong> — direito de <strong>compartilhar cópias</strong> do conteúdo original, revisado e/ou remixado, fortalecendo a circulação do conhecimento.</p>
   <p>💡 Esses princípios garantem que os REA sejam instrumentos de transformação, ampliando o alcance, a colaboração e a liberdade na produção do saber.</p>
-
-
   <p>💡 Esses princípios reforçam o caráter colaborativo e aberto dos REA, permitindo que o conhecimento circule e seja aprimorado continuamente.</p>
-
-
   <p>Ao fazer isso, é essencial <b>manter a atribuição de autoria</b> do material original e <b>indicar quaisquer modificações</b> realizadas, especialmente se gerar novos conteúdos a partir deste REA.</p>
-
   <p>Essa licença reflete o espírito de <b>colaboração, transparência e democratização do conhecimento</b> que fundamenta os Recursos Educacionais Abertos.</p>
 </div>
 
@@ -134,6 +129,28 @@ Apresenta o uso da ferramenta <b>SciSpace</b> e suas aplicações na pesquisa e 
 
 <div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
   <p>O vídeo apresenta os princípios e a importância dos <b>Recursos Educacionais Abertos</b>. Explora como esses materiais favorecem o <b>acesso aberto ao conhecimento</b>, estimulam a <b>autoria compartilhada</b> e permitem a <b>adaptação dos conteúdos</b> às necessidades de professores e estudantes. No contexto deste REA, o vídeo ajuda a compreender <b>por que criar e compartilhar recursos abertos</b> e <b>como integrar ferramentas como o SciSpace de forma ética e pedagógica</b>.</p>
+</div>
+
+## 📄 Inteligência Artificial na Educação Básica
+
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px; font-family:Arial, sans-serif;">
+
+O **Centro de Inovação para a Educação Brasileira (CIEB)** publicou, em 2024, a Nota Técnica *"Inteligência Artificial na Educação Básica: novas aplicações e tendências para o futuro"*, coordenada por **Izabella Cavalcante**. O documento aprofunda o debate sobre o uso da **inteligência artificial na educação**, apresentando análises conceituais e caminhos para uma integração **ética, responsável e pedagógica** dessas tecnologias no contexto brasileiro.
+
+</div>
+</p>
+
+<p align="center" style="font-size:16px;">
+  📥 <a href="https://cieb.net.br/wp-content/uploads/2024/06/Inteligencia-Artificial-na-Educacao-Basica_2024.pdf" target="_blank"><b>Baixar o PDF completo</b></a>
+</p>
+
+<div style="font-size:14px; color:#555; font-family:Arial, sans-serif; text-align:center; margin-top:10px;">
+  <i>Fonte: CENTRO DE INOVAÇÃO PARA A EDUCAÇÃO BRASILEIRA (CIEB), 2024.<br>
+  Nota Técnica #21 — Inteligência artificial na educação básica: novas aplicações e tendências para o futuro.</i>
+</div>
+
+
+
 </div>
 
 <hr>
