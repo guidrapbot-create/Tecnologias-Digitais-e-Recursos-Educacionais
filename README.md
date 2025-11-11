@@ -28,14 +28,11 @@
   <p>🪄 <strong>Rever (Revise)</strong> — direito de <strong>adaptar, ajustar, modificar ou alterar</strong> o conteúdo para adequá-lo a novas realidades, públicos ou finalidades;</p>
   <p>🎨 <strong>Remixar (Remix)</strong> — direito de <strong>combinar</strong> o conteúdo original ou revisado com outros materiais abertos para criar um novo recurso;</p>
   <p>📤 <strong>Redistribuir (Redistribute)</strong> — direito de <strong>compartilhar cópias</strong> do conteúdo original, revisado e/ou remixado, fortalecendo a circulação do conhecimento.</p>
-
   <p>💡 Esses princípios garantem que os REA sejam instrumentos de transformação, ampliando o alcance, a colaboração e a liberdade na produção do saber.</p>
-</section>
+
 
   <p>💡 Esses princípios reforçam o caráter colaborativo e aberto dos REA, permitindo que o conhecimento circule e seja aprimorado continuamente.</p>
-</section>
 
-  </ul>
 
   <p>Ao fazer isso, é essencial <b>manter a atribuição de autoria</b> do material original e <b>indicar quaisquer modificações</b> realizadas, especialmente se gerar novos conteúdos a partir deste REA.</p>
 
