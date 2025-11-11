@@ -20,12 +20,21 @@
 <h2>🪶 Licenciamento e uso aberto</h2>
 
 <div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
-  <p>Todo o conteúdo deste curso está disponível de forma <b>aberta e gratuita</b>, sob a licença <b>Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)</b>.  
+  <p>Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob a licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).  
   Isso significa que você tem liberdade para:</p>
 
-  <ul>
-    <li>📤 <b>Compartilhar</b> — copiar e redistribuir o material em qualquer formato e para qualquer finalidade, inclusive comercial;</li>
-    <li>🎨 <b>Adaptar</b> — remixar, transformar e criar a partir deste material, também para qualquer finalidade, inclusive comercial.</li>
+  <p>📥 <strong>Reter (Retain)</strong> — direito de <strong>fazer e possuir cópias</strong> dos recursos, armazenando e controlando versões locais para uso próprio;</p>
+  <p>🔄 <strong>Reutilizar (Reuse)</strong> — direito de <strong>usar o conteúdo</strong> em diferentes contextos, como aulas, pesquisas, sites ou apresentações;</p>
+  <p>🪄 <strong>Rever (Revise)</strong> — direito de <strong>adaptar, ajustar, modificar ou alterar</strong> o conteúdo para adequá-lo a novas realidades, públicos ou finalidades;</p>
+  <p>🎨 <strong>Remixar (Remix)</strong> — direito de <strong>combinar</strong> o conteúdo original ou revisado com outros materiais abertos para criar um novo recurso;</p>
+  <p>📤 <strong>Redistribuir (Redistribute)</strong> — direito de <strong>compartilhar cópias</strong> do conteúdo original, revisado e/ou remixado, fortalecendo a circulação do conhecimento.</p>
+
+  <p>💡 Esses princípios garantem que os REA sejam instrumentos de transformação, ampliando o alcance, a colaboração e a liberdade na produção do saber.</p>
+</section>
+
+  <p>💡 Esses princípios reforçam o caráter colaborativo e aberto dos REA, permitindo que o conhecimento circule e seja aprimorado continuamente.</p>
+</section>
+
   </ul>
 
   <p>Ao fazer isso, é essencial <b>manter a atribuição de autoria</b> do material original e <b>indicar quaisquer modificações</b> realizadas, especialmente se gerar novos conteúdos a partir deste REA.</p>
