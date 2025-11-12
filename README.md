@@ -106,3 +106,73 @@ Atividade desenvolvida durante a disciplina <i>Tecnologias Digitais e Recursos E
 📝 <b>/atividades</b> — propostas práticas para sala de aula e formação docente</p>
 
 <hr>
+
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🧮 Atividades sugeridas</h2>
+<ol>
+  <li><b>Exploração inicial:</b> Acesse o site <a href="https://scispace.com/">SciSpace</a> e teste suas principais funcionalidades.  
+  Reflita sobre como a ferramenta apoia (ou não) o processo de escrita acadêmica.</li>
+  <li><b>Discussão:</b> Qual o papel da IA no processo de autoria e formação docente?  
+  É possível “ensinar com” e não apenas “sobre” a IA?</li>
+  <li><b>Reflexão:</b> O que aprendeu com o uso do SciSpace e como a ferramenta pode (ou não) ser integrada às práticas pedagógicas?</li>
+</ol>
+
+<hr>
+
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📚 Referências e leituras sugeridas</h2>
+<ul>
+  <li>FREIRE, Paulo. <i>Pedagogia da Autonomia: saberes necessários à prática educativa.</i></li>
+  <li>UNESCO. <i>Inteligência Artificial e Educação: desafios e oportunidades.</i> Paris: UNESCO, 2021.</li>
+</ul>
+
+<hr>
+
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🧑‍💻 Sobre Recurso Educacional Aberto (REA)</h2>
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
+  <p>Um <b>Recurso Educacional Aberto (REA)</b> é qualquer material de ensino, aprendizagem ou pesquisa disponível em <b>domínio público</b> ou sob uma <b>licença aberta</b>, permitindo que seja <b>usado, adaptado e compartilhado</b> livremente, desde que mantida a atribuição de autoria.</p>
+  <p>Os REAs fortalecem uma cultura de <b>colaboração, inovação e democratização do conhecimento</b>, incentivando práticas pedagógicas mais abertas, inclusivas e criativas.</p>
+</div>
+
+<hr>
+
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🎬 Por que usar ou criar REA?</h2>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=QnanHVzm2eA" target="_blank">
+    <img src="https://img.youtube.com/vi/QnanHVzm2eA/0.jpg" alt="Vídeo sobre REA" width="480"/>
+  </a>
+</div>
+
+<p align="center" style="font-size:14px; color:#555; font-family:Arial, sans-serif;">
+  <i>Assista ao vídeo acima para compreender o conceito de REA e suas implicações no uso de tecnologias educacionais.</i>
+</p>
+
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
+  <p>O vídeo apresenta os princípios e a importância dos <b>Recursos Educacionais Abertos</b>. Explora como esses materiais favorecem o <b>acesso aberto ao conhecimento</b>, estimulam a <b>autoria compartilhada</b> e permitem a <b>adaptação dos conteúdos</b> às necessidades de professores e estudantes. No contexto deste REA, o vídeo ajuda a compreender <b>por que criar e compartilhar recursos abertos</b> e <b>como integrar ferramentas como o SciSpace de forma ética e pedagógica</b>.</p>
+</div>
+
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📄 Inteligência Artificial na Educação Básica</h2>
+
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px; font-family:Arial, sans-serif;">
+O **Centro de Inovação para a Educação Brasileira (CIEB)** publicou, em 2024, a Nota Técnica *"Inteligência Artificial na Educação Básica: novas aplicações e tendências para o futuro"*, coordenada por **Izabella Cavalcante**. O documento aprofunda o debate sobre o uso da **inteligência artificial na educação**, apresentando análises conceituais e caminhos para uma integração **ética, responsável e pedagógica** dessas tecnologias no contexto brasileiro.
+</div>
+
+<p align="center" style="font-size:16px;">
+  📥 <a href="https://cieb.net.br/wp-content/uploads/2024/06/Inteligencia-Artificial-na-Educacao-Basica_2024.pdf" target="_blank"><b>Baixar o PDF completo</b></a>
+</p>
+
+<div style="font-size:14px; color:#555; font-family:Arial, sans-serif; text-align:center; margin-top:10px;">
+  <i>Fonte: CENTRO DE INOVAÇÃO PARA A EDUCAÇÃO BRASILEIRA (CIEB), 2024.<br>
+  Nota Técnica #21 — Inteligência artificial na educação básica: novas aplicações e tendências para o futuro.</i>
+</div>
+
+<hr>
+
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🔍 Licença</h2>
+<p><a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Licença CC BY 4.0"></a><br>
+Este material é disponibilizado sob a <b>Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)</b>.<br>
+Você pode <b>copiar, distribuir, remixar e adaptar</b> este conteúdo, desde que <b>cite a autoria</b> e mantenha a <b>mesma licença</b>.</p>
+
+<hr>
+
+<p align="center" style="font-size:12px; color:#888; background-color:#f9f9f9; padding:10px; border-radius:10px;">
+  © 2025 — Guiullianna Drapcynski Bot & Ana Carolina Ingeinczaki
+</p>
