@@ -94,7 +94,12 @@
 <h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📄 Inteligência Artificial na Educação Básica</h2>
 
 <div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px; font-family:Arial, sans-serif;">
-O **Centro de Inovação para a Educação Brasileira (CIEB)** publicou, em 2024, a Nota Técnica *"Inteligência Artificial na Educação Básica: novas aplicações e tendências para o futuro"*, coordenada por **Izabella Cavalcante**. O documento aprofunda o debate sobre o uso da **inteligência artificial na educação**, apresentando análises conceituais e caminhos para uma integração **ética, responsável e pedagógica** dessas tecnologias no contexto brasileiro.
+  
+  A inteligência artificial (IA) vem transformando o cotidiano da educação básica, oferecendo novas formas de apoiar o ensino, a aprendizagem e a gestão escolar. Ferramentas de IA podem auxiliar na personalização do aprendizado, identificando necessidades específicas de cada aluno, sugerindo conteúdos diferenciados e proporcionando feedback em tempo real. Além disso, a IA pode automatizar tarefas administrativas, liberando mais tempo para que professores se dediquem à prática pedagógica e à interação com os estudantes.
+  
+  No entanto, é fundamental que sua implementação seja ética e crítica, considerando aspectos de privacidade, viés de dados e inclusão digital. O uso da IA na educação não deve substituir o papel do professor, mas potencializar suas práticas, ampliando oportunidades de aprendizagem e estimulando o pensamento crítico, a criatividade e a autonomia dos alunos, garantindo que a tecnologia seja uma aliada no processo educativo, e não um fim em si mesma. Assim, a IA na educação básica deve ser vista como uma oportunidade de formar estudantes mais preparados para os desafios do século XXI, promovendo aprendizado significativo, inclusivo e responsável.
+   
+  O Centro de Inovação para a Educação Brasileira (CIEB) publicou, em 2024, a Nota Técnica "Inteligência Artificial na Educação Básica: novas aplicações e tendências para o futuro", coordenada por Izabella Cavalcante. O documento aprofunda o debate sobre o uso da **inteligência artificial na educação**, apresentando análises conceituais e caminhos para uma integração **ética, responsável e pedagógica** dessas tecnologias no contexto brasileiro.
 </div>
 
 <p align="center" style="font-size:16px;">
