@@ -10,9 +10,9 @@
   <i>Produzido por Guiullianna Drapcynski Bot e Ana Carolina Ingeinczaki</i>
 </p>
 
-<p align="center" style="font-size:18px; font-family:Arial, sans-serif; color:#555;">
+<p align="center" style="font-size:20px; font-family:Arial, sans-serif; color:#555;">
   <b>Disciplina:</b> Tecnologias Digitais e Recursos Educacionais do Programa de Pós-Graduação em Educação (PPGE) <br>
-  <span style="font-size:25px;"><b>Professora:</b> Raquel Pasternak Glitz Kowalski</span>
+  <span style="font-size:20px;"><b>Professora:</b> Raquel Pasternak Glitz Kowalski</span>
 </p>
 
 
