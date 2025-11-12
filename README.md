@@ -111,6 +111,57 @@
   Nota Técnica #21 — Inteligência artificial na educação básica: novas aplicações e tendências para o futuro.</i>
 </div>
 
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🔎 Explorando pesquisas com SciSpace</h2>
+
+<div align="center">
+  <!-- Vídeo introdutório do SciSpace -->
+  <a href="#" target="_blank">
+    <img src="https://via.placeholder.com/480x270.png?text=Vídeo+Intro+SciSpace" alt="Vídeo introdutório sobre SciSpace" width="480"/>
+  </a>
+</div>
+
+<p align="center" style="font-size:14px; color:#555; font-family:Arial, sans-serif; margin-top:10px;">
+  <i>Assista ao vídeo acima para aprender passo a passo como utilizar o SciSpace na pesquisa acadêmica, otimizando a leitura e análise de artigos científicos.</i>
+</p>
+
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px; margin-top:15px;">
+  <p>O <b>SciSpace</b> é uma ferramenta que utiliza inteligência artificial para auxiliar na compreensão de artigos científicos, oferecendo destaques, resumos automáticos e recomendações de leitura relacionadas. Ele facilita o processo de pesquisa, especialmente para estudantes de licenciatura e pesquisadores iniciantes.</p>
+  <p>🌐 Experimente o SciSpace acessando: <a href="https://scispace.com/" target="_blank"><b>https://scispace.com/</b></a></p>
+</div>
+
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🎧 Saiba mais</h2>
+
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px; margin-top:15px;">
+  <h3 style="color:#800000; font-family:Arial, sans-serif;">Dadocracia – Ep. 154 | IA e direitos autorais</h3>
+  <p>Como ficam os direitos autorais na era da Inteligência Artificial e IA’s generativas? Neste episódio do podcast <b>Dadocracia</b>, João Paulo Vicente conversa com Luca Schirru, Diretor Executivo e pesquisador no Instituto Brasileiro de Direitos Autorais, discutindo os desafios e impactos das tecnologias de IA sobre a autoria, proteção de conteúdo e legislação vigente.</p>
+  
+  
+  <p>A <b>Data Privacy Brasil</b> é uma organização criada a partir da parceria entre uma escola e uma associação de pesquisa, com o objetivo de fomentar a cultura de proteção de dados e direitos digitais no Brasil e no mundo. Para alcançar esse propósito, a equipe multidisciplinar oferece formações, eventos, certificações, consultorias, conteúdos multimídia, pesquisas de interesse público e auditorias cívicas. Essas iniciativas promovem direitos fundamentais, justiça social e uma sociedade democrática, na qual tecnologias estejam a serviço da autonomia e dignidade das pessoas, reduzindo assimetrias de poder.</p>
+
+  <p>🎙️ Ouça o episódio no Spotify:</p>
+  
+  <!-- Imagem clicável -->
+  <p style="text-align:center; margin-top:15px;">
+    <a href="https://open.spotify.com/episode/4LFrBAPsWVtZWCmEsGwRS9?si=NYxSquxWSDqgFVSCURZDKA" target="_blank">
+      <img src="https://www.dataprivacybr.org/wp-content/uploads/2024/07/20240703-Dadocracia-154-1080x608-1-1024x576.png" alt="Dadocracia Ep. 154 - IA e direitos autorais" style="max-width:100%; border-radius:12px;" />
+    </a>
+  </p>
+
+  <!-- Link do episódio em texto -->
+  <p style="text-align:center; font-size:14px; font-family:Arial, sans-serif;">
+    Link para o episódio: <a href="https://open.spotify.com/episode/4LFrBAPsWVtZWCmEsGwRS9?si=NYxSquxWSDqgFVSCURZDKA" target="_blank"><b>https://open.spotify.com/episode/4LFrBAPsWVtZWCmEsGwRS9</b></a>
+  </p>
+
+  <!-- Referência -->
+  <p style="font-size:12px; font-family:Arial, sans-serif; color:#555; margin-top:10px;">
+    Referência: <a href="https://www.dataprivacybr.org/dadocracia-ep-154-ia-e-direitos-autorais/" target="_blank"> Dadocracia – Ep. 154 | IA e direitos autorais. Data Privacy Brasil, 2025.</a>
+  </p>
+</div>
+</div>
+
+</div>
+
+
 <hr>
 <h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📚 Leituras sugeridas</h2>
 <ul>
