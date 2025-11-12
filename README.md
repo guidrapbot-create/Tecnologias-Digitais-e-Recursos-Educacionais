@@ -61,6 +61,7 @@ Ao longo do curso, você explorará o **SciSpace**, uma plataforma que utiliza I
   <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Licença Creative Commons BY 4.0" />
 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
 
+</p>
 
 <hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
 
