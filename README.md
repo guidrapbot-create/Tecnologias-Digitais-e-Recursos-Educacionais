@@ -1,21 +1,22 @@
-<p align="center" style="padding:20px; border-radius:12px;">
+<p align="center" style="padding:50px; border-radius:16px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PUCPRbras%C3%A3o.png" alt="PUCPR" width="150"/>
 </p>
 
-<h2 align="center" style="background-color: #800000; color: white; font-family:Arial, sans-serif; padding:10px; border-radius:5px;">
+<h2 align="center" style="color:#800000; font-family:Arial, sans-serif; font-size:40px; padding:15px; border-radius:10px;">
   <b>Explorando o potencial da Inteligência Artificial (IA) com a ferramenta SciSpace</b>
 </h2>
 
-<p align="center" style="font-size:16px; font-family:Arial, sans-serif; color:#333;">
+<p align="center" style="font-size:20px; font-family:Arial, sans-serif; color:#333;">
   <i>Produzido por Guiullianna Drapcynski Bot e Ana Carolina Ingeinczaki</i>
 </p>
 
-<p align="center" style="font-size:14px; font-family:Arial, sans-serif; color:#555;">
+<p align="center" style="font-size:18px; font-family:Arial, sans-serif; color:#555;">
   <b>Disciplina:</b> Tecnologias Digitais e Recursos Educacionais do Programa de Pós-Graduação em Educação (PPGE) — PUCPR<br>
   <b>Professora:</b> Raquel Pasternak Glitz Kowalski
 </p>
 
 <hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
+
 
 <h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">👋 Boas-vindas!</h2>
 
